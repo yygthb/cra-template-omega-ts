@@ -1,6 +1,6 @@
 {
   "name": "cra-template-omega-ts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "main": "template.json",
   "files": [
@@ -51,7 +51,7 @@
     "@typescript-eslint/eslint-plugin": "^4.31.2",
     "@typescript-eslint/parser": "^4.31.2",
     "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-prettier": "^3.4.0",
     "eslint-plugin-react": "^7.26.0",
     "eslint-plugin-react-hooks": "^4.2.0",
     "prettier": "^2.4.1"

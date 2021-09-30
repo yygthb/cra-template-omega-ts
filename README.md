@@ -13,3 +13,13 @@ npx create-react-app my-app --template omega-ts
 
 yarn create react-app my-app --template omega-ts
 ```
+
+before start install devDependencies:
+
+```sh
+npm install @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-plugin-react eslint-plugin-react-hooks prettier eslint-config-prettier@3.4.0 eslint-plugin-prettier -D
+
+# or
+
+yarn add @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-plugin-react eslint-plugin-react-hooks prettier eslint-config-prettier@3.4.0 eslint-plugin-prettier -D
+```
